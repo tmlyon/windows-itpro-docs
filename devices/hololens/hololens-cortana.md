@@ -48,6 +48,18 @@ Use these commands throughout Windows Mixed Reality to get around faster. Some c
 |Hide and show hand ray | "Hide hand ray" / "Show hand ray" |
 |See available speech commands | "What can I say?" |
 
+Starting with version 19041.x of HoloLens 2, you can also use these commands:
+| Say this | To do this |
+| - | - |
+| "Restart device" | Bring up a dialogue to confirm you want to restart the device. You can say "yes" to restart. |
+| "Shutdown device" | Bring up a dialogue to confirm you want to turn off the device. You can say "yes" to confirm. |
+| "Brightness up/down" | Increase or decrease the display brightness by 10%. |
+| "Volume up/down" | Increase or decrease the volume by 10%. |
+| "What's my IP address" | Bring up a dialogue displaying your device's current IP address on the local network. |
+| "Take a picture" | Capture a mixed reality photo of what you are currently seeing. |
+| "Take a video" | Start recording a mixed reality video. | 
+| "Stop recording" | Stops the current mixed reality video recording if one is in progress. |
+
 ### Hologram commands
 
 To use these commands, gaze at a 3D object, hologram, or app window.
